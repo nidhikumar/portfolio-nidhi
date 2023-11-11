@@ -174,7 +174,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
               rel="noreferrer"
               target="_blank"
               class="cta-btn cta-btn--resume"
-              href="assets/Nidhi_Kumar_Resume_Nov.pdf"
+              href="assets/resume.pdf"
             >
               View Resume
             </a>
